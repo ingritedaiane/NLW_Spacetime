@@ -1,7 +1,7 @@
 <h1 align="center"> NLW Spacetime </h1><br>
 <div align="center">
   
-<img src="#" width="500px">
+<img src="https://repository-images.githubusercontent.com/643712114/d7bc1693-2d22-494d-8a06-fc40a5b146f0" width="70%">
   <br>
 <br><img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO%20COM%20SUCESSO&color=GREEN&style=for-the-badge"/><br>
   
